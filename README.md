@@ -8,4 +8,4 @@ Env:
 2.修改16行的excel表路径
 3.修改20行要导出的lua路径
 4.修改11行的配置名
-5.python excel_to_lua.py运行改脚本
+5.python excel_to_lua.py运行该脚本
