@@ -1,0 +1,36 @@
+--测试表
+return {
+	demo={
+		[1]={
+			Index=1,
+			ID=101,
+			Name="金币",
+			Floattype=10.1,
+		},
+		[2]={
+			Index=2,
+			ID=102,
+			Name="钻石",
+			Floattype=10.2,
+		},
+		[3]={
+			Index=3,
+			ID=103,
+			Name="面包",
+			Floattype=11.37,
+		},
+		[4]={
+			Index=4,
+			ID=104,
+			Name="矿石",
+			Floattype=15.5534,
+		},
+		[5]={
+			Index=5,
+			ID=105,
+			Name="role",
+			Floattype=15.5534176,
+		},
+	},
+
+}
